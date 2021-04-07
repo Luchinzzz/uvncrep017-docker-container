@@ -1,0 +1,340 @@
+UltraVnc Linux Repeater version 0.17
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): viewerPort : 5900
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): serverPort : 5500
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): maxSessions: 100
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): loggingLevel: 2
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): ownIpAddress (0.0.0.0 = listen all interfaces) : 0.0.0.0
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): runAsUser (if started as root) : uvncrep
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): Mode 1 connections allowed : Yes
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): Mode 2 connections allowed : Yes
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): Mode 1 allowed server port (0=All) : 0
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): Mode 1 requires listed addresses : No
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): Mode 2 requires listed ID numbers : No
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): useEventInterface: false
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): eventListenerHost : localhost
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): eventListenerPort : 2002
+UltraVnc Sun Jan 24 17:10:08 2021 > listInitializationValues(): useHttpForEventListener : false
+UltraVnc Sun Jan 24 17:10:08 2021 > dropRootPrivileges(): privileges successfully dropped, now running as user uvncrep
+UltraVnc Sun Jan 24 17:10:08 2021 > routeConnections(): starting select() loop, terminate with ctrl+c
+UltraVnc Linux Repeater version 0.17
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): viewerPort : 5900
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): serverPort : 5500
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): maxSessions: 100
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): loggingLevel: 2
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): ownIpAddress (0.0.0.0 = listen all interfaces) : 0.0.0.0
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): runAsUser (if started as root) : uvncrep
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): Mode 1 connections allowed : Yes
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): Mode 2 connections allowed : Yes
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): Mode 1 allowed server port (0=All) : 0
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): Mode 1 requires listed addresses : No
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): Mode 2 requires listed ID numbers : No
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): useEventInterface: false
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): eventListenerHost : localhost
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): eventListenerPort : 2002
+UltraVnc Sun Jan 24 17:10:51 2021 > listInitializationValues(): useHttpForEventListener : false
+UltraVnc Sun Jan 24 17:10:51 2021 > dropRootPrivileges(): privileges successfully dropped, now running as user uvncrep
+UltraVnc Sun Jan 24 17:10:51 2021 > routeConnections(): starting select() loop, terminate with ctrl+c
+UltraVnc Linux Repeater version 0.17
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): viewerPort : 5901
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): serverPort : 5500
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): maxSessions: 10
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): loggingLevel: 2
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): ownIpAddress (0.0.0.0 = listen all interfaces) : 0.0.0.0
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): runAsUser (if started as root) : uvncrep
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): Mode 1 connections allowed : Yes
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): Mode 2 connections allowed : Yes
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): Mode 1 allowed server port (0=All) : 0
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): Mode 1 requires listed addresses : Yes
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): Mode 1 allowed servers/networks (255=Not allowed): 10.0.0.0 192.168.1.0 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): Mode 1 denied servers/networks (255=Not denied): 127.0.0.1 10.0.0.0 192.168.0.22 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): Mode 2 requires listed ID numbers : No
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): useEventInterface: true
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): eventListenerHost : localhost
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): eventListenerPort : 2002
+UltraVnc Sun Jan 24 17:15:25 2021 > listInitializationValues(): useHttpForEventListener : true
+UltraVnc Sun Jan 24 17:15:25 2021 > dropRootPrivileges(): privileges successfully dropped, now running as user uvncrep
+UltraVnc Sun Jan 24 17:15:25 2021 > routeConnections(): starting select() loop, terminate with ctrl+c
+UltraVnc Sun Jan 24 17:15:26 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:15:26 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:16:55 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:16:55 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:18:25 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:18:25 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:19:55 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:19:55 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:21:25 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:21:25 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:22:56 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:22:56 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:24:26 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:24:26 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:25:56 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:25:56 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:27:26 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:27:26 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:28:56 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:28:56 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:30:26 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:30:26 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:31:56 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:31:56 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:33:26 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:33:26 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:34:56 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:34:56 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:36:26 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:36:26 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:37:57 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:37:57 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:39:27 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:39:27 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:40:57 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:40:57 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Sun Jan 24 17:42:27 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Sun Jan 24 17:42:27 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Linux Repeater version 0.17
+UltraVnc Tue Feb  9 21:16:10 2021 > listInitializationValues(): viewerPort : 5901
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): serverPort : 5500
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): maxSessions: 10
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): loggingLevel: 2
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): ownIpAddress (0.0.0.0 = listen all interfaces) : 0.0.0.0
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): runAsUser (if started as root) : uvncrep
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): Mode 1 connections allowed : Yes
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): Mode 2 connections allowed : Yes
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): Mode 1 allowed server port (0=All) : 0
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): Mode 1 requires listed addresses : Yes
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): Mode 1 allowed servers/networks (255=Not allowed): 10.0.0.0 192.168.1.0 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): Mode 1 denied servers/networks (255=Not denied): 127.0.0.1 10.0.0.0 192.168.0.22 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): Mode 2 requires listed ID numbers : No
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): useEventInterface: true
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): eventListenerHost : localhost
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): eventListenerPort : 2002
+UltraVnc Tue Feb  9 21:16:11 2021 > listInitializationValues(): useHttpForEventListener : true
+UltraVnc Tue Feb  9 21:16:11 2021 > dropRootPrivileges(): privileges successfully dropped, now running as user uvncrep
+UltraVnc Tue Feb  9 21:16:11 2021 > routeConnections(): starting select() loop, terminate with ctrl+c
+UltraVnc Tue Feb  9 21:16:12 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:16:12 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:17:41 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:17:41 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:19:11 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:19:11 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:20:41 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:20:41 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:22:11 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:22:11 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:23:41 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:23:41 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:25:11 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:25:11 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:26:41 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:26:41 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:28:11 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:28:11 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:29:42 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:29:42 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:31:12 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:31:12 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:32:42 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:32:42 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:34:12 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:34:12 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:35:42 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:35:42 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:37:12 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:37:12 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:38:42 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:38:42 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:40:12 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:40:12 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:41:42 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:41:42 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:43:12 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:43:12 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:44:43 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:44:43 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:46:13 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:46:13 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:47:43 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:47:43 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:49:13 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:49:13 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:50:43 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:50:43 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:52:13 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:52:13 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:53:43 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:53:43 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:55:13 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:55:13 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:56:43 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:56:43 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:58:13 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:58:13 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 21:59:44 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 21:59:44 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:01:14 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:01:14 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:02:44 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:02:44 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:04:14 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:04:14 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:05:44 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:05:44 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:07:14 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:07:14 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:08:44 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:08:44 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:10:14 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:10:14 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:11:44 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:11:44 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:13:14 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:13:14 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:14:45 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:14:45 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:16:15 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:16:15 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:17:45 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:17:45 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:19:15 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:19:15 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:20:45 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:20:45 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:22:15 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:22:15 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:23:45 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:23:45 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:25:15 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:25:15 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:26:45 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:26:45 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:28:15 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:28:15 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:29:46 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:29:46 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:31:16 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:31:16 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:32:46 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:32:46 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:34:16 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:34:16 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:35:46 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:35:46 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:37:16 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:37:16 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:38:46 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:38:46 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:40:16 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:40:16 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:41:46 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:41:46 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:43:16 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:43:16 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:44:47 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:44:47 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:46:17 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:46:17 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:47:47 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:47:47 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:49:17 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:49:17 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:50:47 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:50:47 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:52:17 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:52:17 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:53:47 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:53:47 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:55:17 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:55:17 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:56:47 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:56:47 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:58:17 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:58:17 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 22:59:48 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 22:59:48 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:01:18 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:01:18 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:02:48 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:02:48 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:04:18 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:04:18 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:05:48 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:05:48 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:07:18 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:07:18 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:08:48 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:08:48 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:10:18 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:10:18 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:11:48 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:11:48 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:13:18 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:13:18 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:14:49 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:14:49 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:16:19 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:16:19 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:17:49 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:17:49 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:19:19 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:19:19 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:20:49 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:20:49 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:22:19 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:22:19 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:23:49 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:23:49 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:25:19 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:25:19 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:26:49 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:26:49 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:28:19 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:28:19 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:29:50 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:29:50 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:31:20 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:31:20 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:32:50 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:32:50 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:34:20 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:34:20 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:35:50 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:35:50 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:37:20 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:37:20 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:38:50 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:38:50 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Linux Repeater version 0.17
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): viewerPort : 5901
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): serverPort : 5500
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): maxSessions: 10
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): loggingLevel: 2
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): ownIpAddress (0.0.0.0 = listen all interfaces) : 0.0.0.0
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): runAsUser (if started as root) : uvncrep
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): Mode 1 connections allowed : Yes
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): Mode 2 connections allowed : Yes
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): Mode 1 allowed server port (0=All) : 0
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): Mode 1 requires listed addresses : Yes
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): Mode 1 allowed servers/networks (255=Not allowed): 10.0.0.0 192.168.1.0 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): Mode 1 denied servers/networks (255=Not denied): 127.0.0.1 10.0.0.0 192.168.0.22 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255 255.255.255.255
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): Mode 2 requires listed ID numbers : No
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): useEventInterface: true
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): eventListenerHost : localhost
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): eventListenerPort : 2002
+UltraVnc Tue Feb  9 23:40:14 2021 > listInitializationValues(): useHttpForEventListener : true
+UltraVnc Tue Feb  9 23:40:14 2021 > dropRootPrivileges(): privileges successfully dropped, now running as user uvncrep
+UltraVnc Tue Feb  9 23:40:14 2021 > routeConnections(): starting select() loop, terminate with ctrl+c
+UltraVnc Tue Feb  9 23:40:15 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:40:15 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:41:44 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:41:44 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:43:14 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:43:14 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:44:44 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:44:44 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:46:14 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:46:14 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:47:44 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:47:44 2021 > openConnectionToEventListener(): connectWithTimeout() failed.
+UltraVnc Tue Feb  9 23:49:14 2021 > connectWithTimeout(): Error in delayed connection() 111 (Connection refused)
+UltraVnc Tue Feb  9 23:49:14 2021 > openConnectionToEventListener(): connectWithTimeout() failed.

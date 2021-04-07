@@ -1,0 +1,35 @@
+version: '3.9'
+services:
+
+   repeater2:
+       container_name: repeater2
+       build: ./repeater
+       privileged: true
+
+       restart: unless-stopped
+
+       ports:
+        - "5500:5500"
+        - "5901:5901"
+  
+       tty: true
+       volumes:
+        - ./app/uvncrepeater.log:/var/log/uvncrepeater.log
+        - ./app/uvncrepeater.ini:/etc/uvnc/uvncrepeater.ini
+       environment:
+         - TERM=xterm           
+         
+   php-apache2:
+      container_name: php-apache2
+      image: geerlingguy/php-apache:latest
+      ports:
+        - "80:80"
+      restart: always
+    # See 'Custom PHP codebase' for instructions for volumes.
+      volumes: 
+       - ./app/index.php:/var/www/html/index.php:rw,delegated
+       - ./app/uvncrepeater.log:/var/log/uvncrepeater.log
+       - ./app/uvncrepeater.ini:/etc/uvnc/uvncrepeater.ini
+      command: ["/usr/sbin/apache2ctl", "-D", "FOREGROUND"]
+      depends_on:
+       - repeater2
