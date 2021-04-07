@@ -34,9 +34,10 @@ idlist1=12347;kitchenPC
 To run this project you need to install first both [Docker Engine](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/). Then you just need to type in a shell:
 ```
 git clone https://github.com/Luchinzzz/uvncrep017-docker-container.git
-cd /RepeaterWebServer
-sudo docker-compose build
-sudo docker-compose up -d
+cd /uvncrep017-docker-container/RepeaterWebServer
+sudo su
+docker-compose build
+docker-compose up -d
 ```
 ## :computer: Technologies <a name="technologies"/>
 Project is created with:
