@@ -36,6 +36,7 @@ To run this project you need to install first both [Docker Engine](https://docs.
 git clone https://github.com/Luchinzzz/uvncrep017-docker-container.git
 cd /uvncrep017-docker-container/RepeaterWebServer
 sudo su
+chmod +x entrypoint.sh
 docker-compose build
 docker-compose up -d
 ```
