@@ -34,7 +34,7 @@ idlist1=12347;kitchenPC
 To run this project you need to install first both [Docker Engine](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/). Then you just need to type in a shell:
 ```
 git clone https://github.com/Luchinzzz/uvncrep017-docker-container.git
-cd /uvncrep017-docker-container/RepeaterWebServer/repeater
+cd uvncrep017-docker-container/RepeaterWebServer/repeater
 sudo su
 chmod +x entrypoint.sh
 cd ..
