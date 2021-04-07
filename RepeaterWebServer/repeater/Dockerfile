@@ -1,7 +1,7 @@
 FROM ubuntu
 ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && yes | apt-get upgrade && yes | apt-get install git
-RUN yes | apt-get install linux-headers-`uname -r` libx11-6 libx11-dev x-window-system-core x-window-system libxtst6 psmisc build-essential
+RUN yes | apt-get install linux-headers-5.8.0-48-generic libx11-6 libx11-dev x-window-system-core x-window-system libxtst6 psmisc build-essential
 EXPOSE 5500 5901
 
 WORKDIR /progetto
